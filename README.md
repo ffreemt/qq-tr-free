@@ -20,8 +20,7 @@ python setup.py install```
 from qq_tr import qq_tr
 print(qq_tr('hello world'))  # -> '你好世界'
 print(qq_tr('hello world', to_lang='de'))  # ->'Hallo Welt'
-print(qq_tr('hello world', to_lang='fr'))  # ->'Salut tout le monde'
-print(qq_tr('hello world', to_lang='ja'))  # ->'ハローワールド'
+print(qq_tr('hello world', to_lang='fr'))  # ->'Bonjour à tous.'
 ```
 
 ### Acknowledgments
