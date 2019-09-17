@@ -3,7 +3,7 @@
 Qq translate for free
 
 ### Installation
-``` pip install qq-tr-free -U```
+``` pip install -U qq-tr-free```
 
 or
 * Install (pip or whatever) necessary requirements, e.g. ```
