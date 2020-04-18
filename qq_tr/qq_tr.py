@@ -59,7 +59,6 @@ SESS.cookies.update(COOKIES)
 
 class EmptyResu(Exception):
     ''' empty result'''
-    pass
 
 
 # QQ_FANYI = QqFanyi()
